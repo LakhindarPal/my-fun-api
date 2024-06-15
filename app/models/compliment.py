@@ -23,7 +23,7 @@ class Compliment(BaseModel):
                 {
                     "success": True,
                     "data": {
-                      "compliment": "You have a great sense of humor!"
+                        "compliment": "Actions speak louder than words, and yours tell an incredible story."
                     },
                 }
             ]
